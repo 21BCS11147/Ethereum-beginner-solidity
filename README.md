@@ -41,4 +41,4 @@ This TokenContract smart contract is open-source and available under the MIT Lic
 
 ---
 
-Please customize this README as needed to fit your project's context and requirements. Make sure to update any placeholders and provide accurate information about the deployment process, testing, and usage instructions.
+
